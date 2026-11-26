@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Need help right now? (not a crisis service)
+    url: https://findahelpline.com
+    about: If you are in danger or thinking about hurting yourself, find a free helpline in your country. Issues here are public and not monitored around the clock.
+  - name: PairClear articles and quizzes
+    url: https://pairclear.com/en/?utm_source=github&utm_medium=issue&utm_campaign=org
+    about: Plain articles and short quizzes about what is happening between two people.
