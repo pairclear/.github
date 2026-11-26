@@ -7,6 +7,20 @@
 
 **Бесплатные открытые инструменты**, чтобы разобраться, что происходит между двумя людьми. Работают в браузере, ничего не отправляют, на русском и английском. [PairClear по-русски →](https://pairclear.com/ru/?utm_source=github&utm_medium=profile&utm_campaign=org)
 
+### Try it free, or run it yourself
+
+| Tool | Try it free (no install) | Run it yourself |
+|---|---|---|
+| [Reflection journal](https://github.com/pairclear/reflection-journal) | [Open in browser](https://pairclear.github.io/reflection-journal/en/) · [по-русски](https://pairclear.github.io/reflection-journal/ru/) | Download the folder, open <code>index.html</code> |
+| [Thoughts after a fight](https://github.com/pairclear/conflict-thought-diary) | [Open in browser](https://pairclear.github.io/conflict-thought-diary/en/) · [по-русски](https://pairclear.github.io/conflict-thought-diary/ru/) | Download, open <code>index.html</code>; printable sheet in <code>templates/</code> |
+| [Relationship questionnaires](https://github.com/pairclear/relationship-questionnaires) | [Open in browser](https://pairclear.github.io/relationship-questionnaires/en/) · [по-русски](https://pairclear.github.io/relationship-questionnaires/ru/) | <code>python3 build.py</code>, or use <code>data/questionnaires.json</code> in your app |
+| [Psychology lenses](https://github.com/pairclear/psychology-lenses) | [Open in browser](https://pairclear.github.io/psychology-lenses/en/) · [по-русски](https://pairclear.github.io/psychology-lenses/ru/) | <code>node scripts/build.mjs</code>, or use <code>lenses.json</code> |
+| [16 associations](https://github.com/pairclear/sixteen-associations) | [Open in browser](https://pairclear.github.io/sixteen-associations/en/) · [по-русски](https://pairclear.github.io/sixteen-associations/ru/) | Download, open <code>index.html</code>; or the ChatGPT prompt / Claude skill |
+| [Not a therapist](https://github.com/pairclear/not-a-therapist) | [Read on GitHub](https://github.com/pairclear/not-a-therapist) | Paste the system prompt into your bot; run the 14 test scenarios |
+| [Couples counselling kit](https://github.com/pairclear/couples-counseling-kit) | [Read on GitHub](https://github.com/pairclear/couples-counseling-kit) | Copy the Markdown sheets; edit them for your practice |
+
+All tools on one page: **[pairclear.github.io](https://pairclear.github.io/)**
+
 ### For anyone in a relationship
 
 <table>
@@ -68,3 +82,7 @@ Intake and session templates, homework sheets and AI prompts for psychologists a
 - **Open.** Code under MIT, texts under CC BY 4.0. Translations and corrections are welcome: see [CONTRIBUTING](https://github.com/pairclear/.github/blob/main/CONTRIBUTING.md).
 
 > These tools are not a crisis service. If you are thinking about hurting yourself, or you are afraid of your partner, call emergency services (112 in Europe, 911 in the US and Canada) or find a free helpline at [findahelpline.com](https://findahelpline.com).
+
+---
+
+Made by the [PairClear team](https://pairclear.com/en/about/?utm_source=github&utm_medium=profile&utm_campaign=org). Written with AI assistance and checked by people. Questions and corrections: [open an issue](https://github.com/pairclear/.github/issues) or write to insk.ma@gmail.com.
