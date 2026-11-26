@@ -1,0 +1,22 @@
+name: Text correction or translation
+description: A wrong or unclear text, a missing source, an outdated helpline, or a new language
+labels: [content]
+body:
+  - type: input
+    id: where
+    attributes:
+      label: Where
+      description: File and line, or the page and the question.
+    validations:
+      required: true
+  - type: textarea
+    id: change
+    attributes:
+      label: What should change, and why
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source
+      description: A link to a paper, book, official page or helpline site, if you have one.

@@ -1,0 +1,24 @@
+name: Bug report
+description: Something in a tool does not work
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: "Please don't paste your real entries or anyone's private messages here: issues are public."
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: Steps to reproduce, what you expected, what you saw.
+    validations:
+      required: true
+  - type: input
+    id: browser
+    attributes:
+      label: Browser and device
+      placeholder: e.g. Safari 18 on iPhone
+  - type: dropdown
+    id: lang
+    attributes:
+      label: Language of the page
+      options: [English, Russian]
